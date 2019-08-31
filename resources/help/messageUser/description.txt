@@ -1,0 +1,1 @@
+Sends the typed message to the mentioned user! *(User requires **Bot Owner** to use this command)*

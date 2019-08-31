@@ -1,0 +1,1 @@
+Bot will respond with a greeting! *(This is usually to test if the bot is online)*

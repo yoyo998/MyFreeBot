@@ -1,0 +1,1 @@
+Removes the Mute role from the mentioned user! *(User requires **Mute Members** to use this command)*

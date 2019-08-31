@@ -1,0 +1,1 @@
+Sets the bot's GLOBAL prefix! *(User requires **Bot Owner** to use this command)*

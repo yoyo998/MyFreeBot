@@ -1,0 +1,1 @@
+Sets the text displayed in the help message! *(User requires **Bot Owner** to use this command)*

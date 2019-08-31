@@ -1,0 +1,1 @@
+Deletes the specified amount of messages from the chat! *(User requires **Manage Messages** to use this command)*

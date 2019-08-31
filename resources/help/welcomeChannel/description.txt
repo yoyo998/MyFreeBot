@@ -1,0 +1,1 @@
+Sets the channel to welcome and say goodbye when users join or leave! *(User requires **Manage Channels** to use this command)*
