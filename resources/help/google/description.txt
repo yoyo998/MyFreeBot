@@ -1,0 +1,1 @@
+Searches google with the provided text
