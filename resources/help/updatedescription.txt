@@ -1,0 +1,1 @@
+Running this command will update your bot to the latest release! *(User requires **Bot Owner** to use this commands)*
