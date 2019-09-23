@@ -1,1 +1,0 @@
-Unmutes the mentioned user IN VOICE CHATS! *(User requires **Mute Members** to use this command)*

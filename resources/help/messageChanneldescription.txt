@@ -1,1 +1,0 @@
-Bot will send the typed message to the mentioned channel! *(User requires **Bot Owner** to use this command)*

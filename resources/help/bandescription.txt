@@ -1,1 +1,0 @@
-Bans the mentioned user! *(User requires **Ban Users** to use this command)*

@@ -1,1 +1,0 @@
-Sets the message to send to users in DMs when they join! *(User requires **Administrator** to use this command)*

@@ -1,1 +1,0 @@
-Gives the mentioned user the Muted role! *(User requires **Mute Members** to use this command)*

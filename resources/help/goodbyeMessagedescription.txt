@@ -1,1 +1,0 @@
-Sets the message the bot will say when a user leaves! *(User requires **Administrator** to use this command)*

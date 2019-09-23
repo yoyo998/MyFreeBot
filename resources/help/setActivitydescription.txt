@@ -1,1 +1,0 @@
-Sets the activity displayed under the bot's name on the member list! *(User requires **Ban Users** to use this command)*

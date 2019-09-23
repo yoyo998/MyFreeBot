@@ -1,1 +1,0 @@
-Enables/Disables private message welcoming! *(User requires **Administrator** to use this command)*

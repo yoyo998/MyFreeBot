@@ -1,1 +1,0 @@
-setActivity Use !help for help
